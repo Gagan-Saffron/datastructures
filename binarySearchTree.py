@@ -1,3 +1,4 @@
+#This queue is used to implement levelorder traversal algorithm
 class Queue():
 	def __init__(self):
 		self.que=[]
